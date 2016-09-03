@@ -1,4 +1,4 @@
-How to build on Linux
+How to build LuaBind on Linux
 =====================
 ```txt
 cmake CMakeLists.txt -G 'Unix Makefiles'
