@@ -1,3 +1,9 @@
+/libluabind.a
+/cmake_install.cmake
+/Makefile
+/DartConfiguration.tcl
+/CTestTestfile.cmake
+/CMakeCache.txt
 bin.v2
 bin
 doc/*.html
