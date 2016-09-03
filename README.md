@@ -5,7 +5,7 @@ cmake CMakeLists.txt -G 'Unix Makefiles'
 run build.sh
 ```
 
-Dependenc 
+Dependence
 =========
 ```txt
 sudo apt-get install liblua5.1-0-dev
