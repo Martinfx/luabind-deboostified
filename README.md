@@ -5,6 +5,11 @@ cmake CMakeLists.txt -G 'Unix Makefiles'
 run build.sh
 ```
 
+Dependenc 
+=========
+```txt
+sudo apt-get install liblua5.1-0-dev
+```
 
 
 luabind
