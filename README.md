@@ -1,3 +1,17 @@
+How to build LuaBind on Linux
+=====================
+```txt
+cmake CMakeLists.txt -G 'Unix Makefiles'
+run build.sh
+```
+
+Dependence
+=========
+```txt
+sudo apt-get install liblua5.1-0-dev
+```
+
+
 luabind
 =======
 This is a customized luabind fork that's used by [X-Ray Engine](https://github.com/OpenXRay/xray-16).
