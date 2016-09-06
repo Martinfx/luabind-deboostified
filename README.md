@@ -1,3 +1,16 @@
+How to build LuaBind on FreeBSD
+=====================
+```txt
+cmake CMakeLists.txt -G 'Unix Makefiles'
+run build.sh
+```
+
+Dependence
+=========
+```txt
+sudo pkg install lua51
+```
+
 How to build LuaBind on Linux
 =====================
 ```txt
